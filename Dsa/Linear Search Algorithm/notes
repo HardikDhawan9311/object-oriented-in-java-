@@ -1,0 +1,7 @@
+Linear search means find the element till you didnot get that element.
+
+[18,12,9,14,77,50]
+
+in linear search we will find is 14 is there or not.
+
+so we will iterate over each array[item] of an array
